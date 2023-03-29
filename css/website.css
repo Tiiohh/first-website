@@ -128,3 +128,46 @@ img {
 }
 
 
+
+.full-container {
+    display: flex;
+    justify-content: center;
+}
+
+.container-four {
+    width: 1200px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px;
+    margin-bottom: 75px;
+    border-radius: 8px;
+}
+
+.info-two {
+    margin-left: 40px;
+}
+
+.action {
+    font-size: 24px;
+    color: white;
+    font-weight: 700;
+}
+
+.paragraph {
+    width: 600px;
+}
+
+.sign-up {
+    margin-right: 40px;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    padding: 24px;
+    text-align: center;
+}
+
+
